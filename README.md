@@ -3,3 +3,5 @@ This calculator is personal project, at not an active project however feel free 
 1) Raw tables have the data that is used to construct database, if you make any changes make sure to click update database button.
 2) Recipes themselves can be saved in the app
 3) There is a dist branch with compiled and ready .exe file if you are not interested in code, but just want to run the calculator
+4) In this example there are no actual recipes
+5) Updates probably only going to happen if I feel like it
